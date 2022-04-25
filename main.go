@@ -24,7 +24,7 @@ const (
 	sslrootcert   = "./server-ca.pem"
 	sslkey        = "./client-key.pem"
 	sslcert       = "./client-cert.pem"
-	projectID     = "txd-ia-money-mapping-dev"
+	projectID     = "id-project"
 	queryProducts = ``
 )
 
